@@ -26,6 +26,7 @@ const todos = (state = storedTodos, action) => {
 
         default:
             return state;
+            
     }
 }
 
